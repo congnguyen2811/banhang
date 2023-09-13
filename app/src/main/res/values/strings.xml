@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppBanHang</string>
+    <string name="th_m_v_o_gi_h_ng">THÊM VÀO GIỎ HÀNG</string>
+    <string name="gi_250000">Giá: 250000đ</string>
+    <string name="t_n_s_n_ph_m">Tên sản phẩm</string>
+    <string name="m_t">Mô tả</string>
+    <string name="m_t_chi_ti_t_s_n_ph_m">Mô tả chi tiết sản phẩm</string>
+    <string name="ng_nh_p">Đăng nhập</string>
+    <string name="ng_k">Đăng kí</string>
+</resources>

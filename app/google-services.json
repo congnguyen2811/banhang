@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "598638301628",
+    "project_id": "appbanhang-7647f",
+    "storage_bucket": "appbanhang-7647f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598638301628:android:bb1ca6c70f2a677d995bb9",
+        "android_client_info": {
+          "package_name": "com.example.appbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598638301628-j8m5mvuffh6bk7t70a27ddsl2ak3miho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-z0cTpRy7z6MnLoK7IuHv1o0PQDki3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598638301628-j8m5mvuffh6bk7t70a27ddsl2ak3miho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598638301628:android:250e2146807b8ce0995bb9",
+        "android_client_info": {
+          "package_name": "com.manager.appbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598638301628-f217e240mqrvuaolm29qs55t1rcib5ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manager.appbanhang",
+            "certificate_hash": "c222f1b02f95945543efffc22977c4c571dec6a1"
+          }
+        },
+        {
+          "client_id": "598638301628-j8m5mvuffh6bk7t70a27ddsl2ak3miho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-z0cTpRy7z6MnLoK7IuHv1o0PQDki3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598638301628-j8m5mvuffh6bk7t70a27ddsl2ak3miho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
